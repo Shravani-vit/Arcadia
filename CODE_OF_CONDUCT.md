@@ -8,4 +8,4 @@ All contributors are expected to uphold the community standards. We are committe
 - Act with integrity and honesty.
 
 ## Reporting Issues
-If you encounter any issues, please reach out to the maintainers at [email@example.com].
+If you encounter any issues, please reach out to the maintainers at [shravani.jagtap22@vit.edu].
