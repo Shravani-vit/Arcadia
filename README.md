@@ -1,13 +1,7 @@
-# Arcadia
-
-This repository contains a shell script for calculating simple interest.
-
-## Usage
-Run the `simple-interest.sh` script with the following parameters:
-- Principal amount (P)
-- Rate of interest (R)
-- Time period (T)
-
-Example:
-```bash
-./simple-interest.sh 1000 5 2
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
