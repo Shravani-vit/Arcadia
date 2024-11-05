@@ -1,4 +1,4 @@
-# Project Name
+# Arcadia
 
 This repository contains a shell script for calculating simple interest.
 
